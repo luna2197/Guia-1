@@ -56,7 +56,7 @@ if(isset($_SESSION['admin'])){
 			</div>
 			<div class="card-footer">
 				<div class="d-flex justify-content-center links">
-					No tienes una cuenta?<a href="PHP/registrar.php">Sign Up</a>
+					No tienes una cuenta?<a href="PHP/registrar.php">Registrar</a>
 				</div>
 				
 			</div>
